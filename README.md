@@ -46,15 +46,15 @@ Model saved as model.h5
 
 Command-line output: "Predicted: Real / Fake"
 
-![image](https://github.com/GudepuRakshitha/Deepfake-Detection-using-CNN/blob/39dc0abeafab1c5c8a116e7aab4c4005449a24a5/cnn1.png)
+![cnn1](https://raw.githubusercontent.com/Bhavanaviswanath/Deepfake_Detection_for_Images_Using_CNN/348030bc4a90e114f8484daa26175f65675f0287/cnn1.png)
 
-![image](https://github.com/GudepuRakshitha/Deepfake-Detection-using-CNN/blob/39dc0abeafab1c5c8a116e7aab4c4005449a24a5/cnn2.png)
+![cnn2](https://raw.githubusercontent.com/Bhavanaviswanath/Deepfake_Detection_for_Images_Using_CNN/348030bc4a90e114f8484daa26175f65675f0287/cnn2.png)
 
-![image](https://github.com/GudepuRakshitha/Deepfake-Detection-using-CNN/blob/39dc0abeafab1c5c8a116e7aab4c4005449a24a5/cnn3.png)
+![cnn3](https://raw.githubusercontent.com/Bhavanaviswanath/Deepfake_Detection_for_Images_Using_CNN/348030bc4a90e114f8484daa26175f65675f0287/cnn3.png)
 
-![image](https://github.com/GudepuRakshitha/Deepfake-Detection-using-CNN/blob/39dc0abeafab1c5c8a116e7aab4c4005449a24a5/cnn4.png)
+![cnn4](https://raw.githubusercontent.com/Bhavanaviswanath/Deepfake_Detection_for_Images_Using_CNN/348030bc4a90e114f8484daa26175f65675f0287/cnn4.png)
 
-![image](https://github.com/GudepuRakshitha/Deepfake-Detection-using-CNN/blob/39dc0abeafab1c5c8a116e7aab4c4005449a24a5/cnn5.png)
+![cnn5](https://raw.githubusercontent.com/Bhavanaviswanath/Deepfake_Detection_for_Images_Using_CNN/348030bc4a90e114f8484daa26175f65675f0287/cnn5.png)
 
 
 ## 🙋‍♀️ Author
